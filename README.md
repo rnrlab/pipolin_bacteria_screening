@@ -4,6 +4,7 @@
 > [**Redrejo-Rodríguez, M., *et al.*** Primer-independent DNA synthesis 
 >by a family B DNA polymerase from self-replicating Mobile genetic elements. 
 >*Cell reports*, 2017](https://doi.org/10.1016/j.celrep.2017.10.039)
+
 > [**Chuprikova, L., Mateo-Cáceres, V., de Toro, M. & Redrejo-Rodríguez, M.** ExplorePipolin: reconstruction and annotation of piPolB-encoding bacterial mobile elements from draft genomes. *Bioinformatics Advances* 2022.](https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbac056/6659502)
 
 In this repository, we have made available the code developed during our latest work on pipolins. We carried out a pipolin screening of the Assembly (NCBI) database. The analysis of the structure of pipolins revealed that they are commonly integrative elements, usually flanked by direct repeats, sharing known mobile elements integration hotspots (*e.g.* tRNA genes). Remarkably, integrase dynamics correlates with alternative integration spots and enables diverse lifestyles, ranging from integrative to mobilizable plasmid pipolins. Pipolins harbor a minimal core and a large cargo module enriched for defense factors, which are actively exchanged with other mobile elements. These findings indicate pipolins act as orthogonal reservoirs of defense genes that play a key role in the exchange mechanisms for defense genes in bacterial populations.
