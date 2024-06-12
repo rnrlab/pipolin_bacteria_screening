@@ -22,6 +22,6 @@ Each folder in this repository contains the code used in each project sub-task:
 1. **MGE extTools annot**: Parse information of different annotation tools used on pipolins and other MGEs (plasmids, phages, ciMGEs). Plot annotation resuts.
 1. **wGRR and RG calculation**: Calculate wGRR (wighted gene repertoire relatedness) among pipolins and other annotated MGEs to detect recent events of gene exchange (aka recombining genes or RGs).
 
-*Discalimer:
+Disclaimer:
 - Work in progress.
-- Some scripts may require additional software/packages, files or databases not included in this repository. Since some input and output files surpass Github size, the correct execution of several scripts uploaded here is greatly impaired. Feel free to request the authors any missing file that might interest the reader and do not hesitate to ask for help if you encounter any difficulies while using the code provided in this repository*
+- Some scripts may require additional software/packages, files or databases not included in this repository. Since some input and output files surpass Github size, the correct execution of several scripts uploaded here is greatly impaired. Feel free to request the authors any missing file that might interest the reader and do not hesitate to ask for help if you encounter any difficulies while using the code provided in this repository
