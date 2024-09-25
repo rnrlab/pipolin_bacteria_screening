@@ -1,4 +1,6 @@
 # Identification and characterization of pipolins in Bacteria
+[![DOI](https://zenodo.org/badge/803208437.svg)](https://zenodo.org/doi/10.5281/zenodo.13840663)
+
 
 **Pipolins** constitute a new group of mobile genetic elements (MGEs) that encode a primer-independent B-family DNA polymerase (piPolB). Previously, pipolins had been identified as integrative MGEs in diverse bacteria and as circular plasmids in mitochondria and a few gram positive species. Detailed analysis of *E. coli* pipolins revealed pipolins are present in diverse phylogroups, encode a diverse repertoire of DNA metabolism genes, and show evidence of recent horizontal transfer between different *E. coli* strains. 
 > [**Redrejo-Rodríguez, M., *et al.*** Primer-independent DNA synthesis 
